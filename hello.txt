@@ -1,3 +1,3 @@
 hello!GitHub
 GitHubの操作方法について学びます
-branch_aを新ししく作ってbaranch_aで作業する
+branch_aでの作業は完了
