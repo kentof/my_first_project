@@ -1,0 +1,2 @@
+# my_first_project
+SoftwareDesign8月号のチュートリアル
